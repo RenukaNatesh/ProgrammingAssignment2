@@ -1,3 +1,4 @@
+## Created by Renuka Natesh
 ## This file contains two functions which will compute inverse of matrix 
 ## and cache it.
 
